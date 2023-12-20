@@ -1,5 +1,5 @@
 {
-  "name": "@nuxtjs/drupal-graphql",
+  "name": "tangkoko/nuxt3-drupal-graphql",
   "version": "1.0.0",
   "description": "My new Nuxt module",
   "repository": "https://github.com/nicoren-tangkoko/nuxt3-drupal-graphql",
