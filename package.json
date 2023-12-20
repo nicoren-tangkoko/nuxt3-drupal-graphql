@@ -3,6 +3,7 @@
   "version": "1.0.0",
   "description": "My new Nuxt module",
   "repository": "https://github.com/nicoren-tangkoko/nuxt3-drupal-graphql",
+  "author": "NIcolas RENAULT <nrenault@tangkoko.com>",
   "license": "MIT",
   "type": "module",
   "exports": {
